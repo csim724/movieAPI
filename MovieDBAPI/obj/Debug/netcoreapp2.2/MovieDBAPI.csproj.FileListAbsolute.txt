@@ -1,0 +1,14 @@
+C:\Users\Chris\source\repos\MovieDBAPI\MovieDBAPI\bin\Debug\netcoreapp2.2\MovieDBAPI.deps.json
+C:\Users\Chris\source\repos\MovieDBAPI\MovieDBAPI\bin\Debug\netcoreapp2.2\MovieDBAPI.runtimeconfig.json
+C:\Users\Chris\source\repos\MovieDBAPI\MovieDBAPI\bin\Debug\netcoreapp2.2\MovieDBAPI.runtimeconfig.dev.json
+C:\Users\Chris\source\repos\MovieDBAPI\MovieDBAPI\bin\Debug\netcoreapp2.2\MovieDBAPI.dll
+C:\Users\Chris\source\repos\MovieDBAPI\MovieDBAPI\bin\Debug\netcoreapp2.2\MovieDBAPI.pdb
+C:\Users\Chris\source\repos\MovieDBAPI\MovieDBAPI\obj\Debug\netcoreapp2.2\MovieDBAPI.csprojAssemblyReference.cache
+C:\Users\Chris\source\repos\MovieDBAPI\MovieDBAPI\obj\Debug\netcoreapp2.2\MovieDBAPI.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\MovieDBAPI\MovieDBAPI\obj\Debug\netcoreapp2.2\MovieDBAPI.RazorAssemblyInfo.cache
+C:\Users\Chris\source\repos\MovieDBAPI\MovieDBAPI\obj\Debug\netcoreapp2.2\MovieDBAPI.RazorAssemblyInfo.cs
+C:\Users\Chris\source\repos\MovieDBAPI\MovieDBAPI\obj\Debug\netcoreapp2.2\MovieDBAPI.AssemblyInfoInputs.cache
+C:\Users\Chris\source\repos\MovieDBAPI\MovieDBAPI\obj\Debug\netcoreapp2.2\MovieDBAPI.AssemblyInfo.cs
+C:\Users\Chris\source\repos\MovieDBAPI\MovieDBAPI\obj\Debug\netcoreapp2.2\MovieDBAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Chris\source\repos\MovieDBAPI\MovieDBAPI\obj\Debug\netcoreapp2.2\MovieDBAPI.dll
+C:\Users\Chris\source\repos\MovieDBAPI\MovieDBAPI\obj\Debug\netcoreapp2.2\MovieDBAPI.pdb
